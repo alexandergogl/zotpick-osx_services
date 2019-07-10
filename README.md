@@ -4,11 +4,16 @@ OSX services to run the Zotero [citation dialog](https://www.zotero.org/support/
 
 Credits: Applescript by [David Smith](https://github.com/davepwsmith/zotpick-applescript) and idea for the workflow by [Raphael Kabo](http://raphaelkabo.com/blog/posts/markdown-to-word/).
 
-
-
 Three workflows are available:
 
-1. `zotpick-asciidoc.workflow` => 
+1. `zotpick-asciidoc.workflow` 
+2. `zotpick-pandoc.workflow`
+3. `zotpick-citekey.workflow`
+4. `zotpick-zotero_quick_export`
+
+There is also a workflow for [Alfred](https://www.alfredapp.com/):
+
+1. `zotpick-zotero_quick_export.alfredworkflow`
 
 ## Installation
 
